@@ -200,6 +200,7 @@ main {
 .like-button:hover svg,
 .liked .like-button svg {
   fill: #e32195;
+  cursor: pointer;
 }
 
 .liked .like-button:hover svg {
